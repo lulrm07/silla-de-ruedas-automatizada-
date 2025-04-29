@@ -1,2 +1,2 @@
-# silla-de-ruedas-automatizada-
-Control de silla de ruedas 
+
+**Control de Silla de Ruedas Inteligente:** Una solución diseñada para mejorar la movilidad y autonomía de personas con discapacidad. Nuestra aplicación, conectada a un sistema basado en Arduino y Bluetooth, permite controlar de manera fácil y precisa una silla de ruedas motorizada. Con botones intuitivos y funciones avanzadas, los usuarios pueden desplazarse hacia adelante, atrás, izquierda o derecha con solo un toque. ¡Innovación al servicio de la inclusión! 🚀
